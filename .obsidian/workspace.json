@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mermaid-graph.md",
+                "file": "mermaid-gantt.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -29,11 +29,14 @@
             "id": "83b6681399e61055",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "mermaid-graph.md",
-                "mode": "preview",
-                "source": false
+                "file": "test_canvas.canvas",
+                "viewState": {
+                  "x": 65,
+                  "y": -350,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mermaid-graph.md",
+                "file": "test_canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mermaid-graph.md",
+                "file": "test_canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mermaid-graph.md"
+                "file": "test_canvas.canvas"
               }
             }
           }
@@ -164,13 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6c19e2c19e8dae",
+  "active": "83b6681399e61055",
   "lastOpenFiles": [
+    "README.md",
     "mermaid-gantt.md",
     "mermaid-graph.md",
+    "test_canvas.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2023-10-07.md",
-    "README.md"
+    "2023-10-07.md"
   ]
 }
