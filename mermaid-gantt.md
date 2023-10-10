@@ -9,7 +9,7 @@ gantt
         Task in Another :2023-09-12, 12d
         another task    :24d
     section Test
-        aa : active, aa, 2023-09-18, 50d
+	        aa : active, aa, 2023-09-18, 50d
         Final milestone : milestone, m1, after aa, 0d
         bb : crit , bb , after aa, 20d
 ```
